@@ -1,3 +1,12 @@
+"""
+
+dns.py
+
+Author: Tina Aquino
+
+"""
+
+
 import argparse
 import socket
 
